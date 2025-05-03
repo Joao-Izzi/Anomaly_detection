@@ -24,3 +24,5 @@ df
 
 features = df.columns.tolist()[2:-1]
 features
+
+# %%
